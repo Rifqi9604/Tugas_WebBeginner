@@ -52,7 +52,7 @@ export const LandingPage = () => {
                             <h1 className="text-[32px]">
                                 HEY! <span className="font-bold">I'm Adelia Deswita</span>, A <span className="font-bold">SOPHOMORE </span> AT UPN VETERAN JAKARTA
                             </h1>
-                            <p>Dengan ini saya, Adelia Deswita dari S1-Sistem Informasi 2022 dengan NIM 2210512(...) telah menyelesaikan Tugas 1 Study Club Web Beginner</p>
+                            <p>Dengan ini saya, Adelia Deswita dari S1-Sistem Informasi 2022 dengan NIM 2210512076 telah menyelesaikan Tugas 1 Study Club Web Beginner</p>
                         </div>
                         <SocmedLogo/>
                 </div>
